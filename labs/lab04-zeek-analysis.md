@@ -1,4 +1,4 @@
-﻿# Lab 04 - Zeek Analysis
+# Lab 04 - Zeek Analysis
 
 ## Goal
 

@@ -1,4 +1,4 @@
-﻿# Architecture Diagram
+# Architecture Diagram
 
 Add current architecture diagram and update after each major milestone.
 

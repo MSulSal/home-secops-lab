@@ -1,4 +1,4 @@
-﻿# Dashboards
+# Dashboards
 
 Store Grafana dashboard JSON exports and dashboard notes.
 

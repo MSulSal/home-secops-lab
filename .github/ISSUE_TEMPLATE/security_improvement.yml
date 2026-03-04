@@ -1,4 +1,4 @@
-﻿name: Security Improvement
+name: Security Improvement
 description: Track defensive hardening and monitoring enhancements.
 title: "[Security]: "
 labels: ["security"]

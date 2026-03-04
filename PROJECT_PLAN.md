@@ -1,4 +1,4 @@
-﻿# PROJECT_PLAN
+# PROJECT_PLAN
 
 ## Phase 1 - Visibility
 

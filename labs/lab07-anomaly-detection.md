@@ -1,4 +1,4 @@
-﻿# Lab 07 - Anomaly Detection
+# Lab 07 - Anomaly Detection
 
 ## Goal
 

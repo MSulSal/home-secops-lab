@@ -1,4 +1,4 @@
-﻿# BOOTSTRAP
+# BOOTSTRAP
 
 ## Project Purpose
 

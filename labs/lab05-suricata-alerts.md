@@ -1,4 +1,4 @@
-﻿# Lab 05 - Suricata Alerts
+# Lab 05 - Suricata Alerts
 
 ## Goal
 

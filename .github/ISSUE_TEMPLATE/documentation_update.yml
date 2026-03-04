@@ -1,4 +1,4 @@
-﻿name: Documentation Update
+name: Documentation Update
 description: Propose updates to architecture, lab, or operational docs.
 title: "[Docs]: "
 labels: ["documentation"]

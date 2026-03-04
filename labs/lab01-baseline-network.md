@@ -1,4 +1,4 @@
-﻿# Lab 01 - Baseline Network
+# Lab 01 - Baseline Network
 
 ## Goal
 

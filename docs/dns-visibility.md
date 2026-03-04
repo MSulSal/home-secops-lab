@@ -1,4 +1,4 @@
-﻿# DNS Visibility
+# DNS Visibility
 
 ## Objectives
 

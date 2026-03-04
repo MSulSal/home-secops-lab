@@ -1,4 +1,4 @@
-﻿# ML / Detection Module
+# ML / Detection Module
 
 Explainable anomaly analysis for defensive telemetry.
 

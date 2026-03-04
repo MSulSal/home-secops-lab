@@ -1,4 +1,4 @@
-﻿# Configs
+# Configs
 
 Configuration files for Loki, Promtail, and future sensor integrations.
 

@@ -1,4 +1,4 @@
-﻿# Network Monitoring
+# Network Monitoring
 
 ## Baseline
 

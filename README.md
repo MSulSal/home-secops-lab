@@ -1,4 +1,4 @@
-﻿# home-secops-lab
+# home-secops-lab
 
 A reproducible defensive security monitoring stack for home and small-office networks.
 

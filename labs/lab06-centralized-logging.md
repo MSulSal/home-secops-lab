@@ -1,4 +1,4 @@
-﻿# Lab 06 - Centralized Logging
+# Lab 06 - Centralized Logging
 
 ## Goal
 

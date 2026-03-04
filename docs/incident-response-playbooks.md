@@ -1,4 +1,4 @@
-﻿# Incident Response Playbooks
+# Incident Response Playbooks
 
 ## Purpose
 

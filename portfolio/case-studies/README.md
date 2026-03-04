@@ -1,4 +1,4 @@
-﻿# Case Studies
+# Case Studies
 
 Capture defensible investigation writeups with evidence and outcomes.
 

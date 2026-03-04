@@ -1,4 +1,4 @@
-﻿# Lab 02 - DNS Monitoring
+# Lab 02 - DNS Monitoring
 
 ## Goal
 

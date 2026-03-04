@@ -1,4 +1,4 @@
-﻿# Scripts
+# Scripts
 
 Operational scripts for setup, validation, and data export workflows.
 

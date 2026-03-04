@@ -1,4 +1,4 @@
-﻿# OWASP Defensive Overview
+# OWASP Defensive Overview
 
 ## Objective
 

@@ -1,4 +1,4 @@
-﻿# Lab 03 - Network Capture
+# Lab 03 - Network Capture
 
 ## Goal
 

@@ -1,4 +1,4 @@
-﻿name: Lab Exercise
+name: Lab Exercise
 description: Track work for a lab implementation or validation run.
 title: "[Lab]: "
 labels: ["lab"]

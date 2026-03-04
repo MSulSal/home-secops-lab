@@ -1,4 +1,4 @@
-﻿# IDS Analysis
+# IDS Analysis
 
 ## Scope
 
