@@ -1,0 +1,24 @@
+﻿name: Security Improvement
+description: Track defensive hardening and monitoring enhancements.
+title: "[Security]: "
+labels: ["security"]
+body:
+  - type: textarea
+    id: risk
+    attributes:
+      label: Risk or Gap
+      description: Identify current risk and affected assets.
+    validations:
+      required: true
+  - type: textarea
+    id: controls
+    attributes:
+      label: Proposed Control
+      description: Detection, prevention, or response control to implement.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation Plan
+      description: How effectiveness will be measured.

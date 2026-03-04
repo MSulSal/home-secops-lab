@@ -1,0 +1,36 @@
+﻿# Private notes and personal workspace artifacts
+notes_private/
+.codex/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.secrets.*
+
+# Logs and temporary outputs
+*.log
+logs/
+tmp/
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
